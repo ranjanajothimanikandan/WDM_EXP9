@@ -28,6 +28,7 @@ for this purpose.
 ### Output:
 ![91](https://github.com/user-attachments/assets/c9a38791-f85f-4447-be91-382c3a45dce5)
 ![92](https://github.com/user-attachments/assets/3afb9dd5-a990-466c-b5d2-541b344324a1)
+![93](https://github.com/user-attachments/assets/c02f32ee-91a9-404d-8d87-c6d437fbe542)
 
 ### Result:
 Thus, the implemention of preprocessing technique on Twitter Data using Rapidminer is executed successfully.
